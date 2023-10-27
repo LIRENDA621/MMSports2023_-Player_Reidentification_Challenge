@@ -28,9 +28,10 @@ Steps for Training and Evaluation:
 
 1. get data: `download_data.py`
 2. create DataFrames: `preprocess_data.py`
-3. training: `train.py`
-4. evaluation: `evaluate.py`
-5. final predictions: `predict.py`
+3. training:
+   `train.py` 
+5. evaluation: `evaluate.py`
+6. final predictions: `predict.py`
 
 
 All settings are done by the configuration dataclass at the beginning of the scripts.
