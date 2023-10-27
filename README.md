@@ -1,7 +1,7 @@
 
 
 [[Paper]](https://dl.acm.org/doi/10.1145/3606038.3616168)[[Challenge]](http://mmsports.multimedia-computing.de/mmsports2023/challenge.html)
-
+**Please note that the MMSports 2022 championship scheme is our baseline and our code is built based on this repository.**
 Code for the paper: `Exploring Loss Function and Rank Fusion for Enhanced Person Re-identification`
 
 ## Setup environment
