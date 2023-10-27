@@ -1,6 +1,6 @@
 
 
-[[Paper]](https://doi.org/10.1145/3552437.3555698)[[Challenge]](http://mmsports.multimedia-computing.de/mmsports2023/challenge.html)
+[[Paper]](https://dl.acm.org/doi/10.1145/3606038.3616168)[[Challenge]](http://mmsports.multimedia-computing.de/mmsports2023/challenge.html)
 
 Code for the paper: `CLIP-ReIdent: Contrastive Training for Player Re-Identification`
 
