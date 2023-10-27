@@ -4,6 +4,20 @@
 
 Code for the paper: `Exploring Loss Function and Rank Fusion for Enhanced Person Re-identification`
 
+## Setup environment
+Clone the repo:
+  ```bash
+  git clone https://github.com/LIRENDA621/MMSports2023_-Player_Reidentificatio_Challenge.git
+  cd TalkSHOW
+  ```  
+Create conda environment:
+```bash
+conda create --name talkshow python=3.7
+conda activate talkshow
+```
+Please install pytorch (v1.10.1).
+
+    pip install -r requirements.txt
 
 ## Approach
 
