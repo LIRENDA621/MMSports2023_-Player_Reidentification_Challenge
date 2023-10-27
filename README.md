@@ -34,7 +34,7 @@ Steps for Training and Evaluation:
    
    `train_our_post.py`
    
-   The main training script will output two post-processing results during each verification, one is last year's championship solution, and the other is our implementation. The differences can be found in the paper.
+   The **main training script** will output two post-processing results during each verification, one is last year's championship solution, and the other is our implementation. The differences can be found in the paper.
 
    `train_our_post_resnet.py`
 
@@ -43,9 +43,12 @@ Steps for Training and Evaluation:
 5. evaluation: `evaluate.py`
    
 7. final predictions:
+   
     `predict.py`
    
+   
    `predict_fortestset.py`
+   
    
    The script is convenient for performing ablation experiments on the test set and does not need to be used.
 
