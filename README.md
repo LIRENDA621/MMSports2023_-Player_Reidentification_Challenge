@@ -7,7 +7,7 @@ Code for the paper: `Exploring Loss Function and Rank Fusion for Enhanced Person
 
 ## Approach
 
-![CLIP](docs/CLIP-ReIdent.png)
+![CLIP](network_arch.png)
 
 Reformulation of the contrastive language-to-image pre-training approach of CLIP to a contrastive image-to-image training approach using the InfoNCE loss as training objective.
 
