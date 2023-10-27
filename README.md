@@ -27,18 +27,3 @@ Steps for Training and Evaluation:
 All settings are done by the configuration dataclass at the beginning of the scripts.
 
 `download_data.py` downloads and unzips the challenge data from the provided [challenge toolkit](https://github.com/DeepSportRadar/player-reidentification-challenge).
-
-
-##
-
-If you find this repository useful, please consider citing:
-
-```bibtex
-@inproceedings{habel2022clipreident,
-  title={CLIP-ReIdent: Contrastive Training for Player Re-Identification},
-  author={Habel, Konrad and Deuser, Fabian and Oswald, Norbert},
-  booktitle={Proceedings of the 5th International ACM Workshop on Multimedia Content Analysis in Sports (MMSports’22), October 10, 2022, Lisboa, Portugal},
-  year={2022}
-}
-
-```
