@@ -30,7 +30,7 @@ Steps for Training and Evaluation:
 
 1. get data: `download_data.py`
 2. create DataFrames: `preprocess_data.py`
-3. tra-ining:
+3. training:
    
    `train_our_post.py`
    
