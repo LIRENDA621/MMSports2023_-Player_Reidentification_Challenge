@@ -30,7 +30,8 @@ Steps for Training and Evaluation:
 
 1. get data: `download_data.py`
 2. create DataFrames: `preprocess_data.py`
-3. training:
+3. tra-ining:
+   
    `train_our_post.py`
    
    The main training script will output two post-processing results during each verification, one is last year's championship solution, and the other is our implementation. The differences can be found in the paper.
@@ -38,8 +39,15 @@ Steps for Training and Evaluation:
    `train_our_post_resnet.py`
 
    This training script facilitates the use of the ResNet model to conduct relevant experiments in the paper.
+   
 5. evaluation: `evaluate.py`
-6. final predictions: `predict.py`
+   
+7. final predictions:
+    `predict.py`
+   
+   `predict_fortestset.py`
+   
+   The script is convenient for performing ablation experiments on the test set and does not need to be used.
 
 
 All settings are done by the configuration dataclass at the beginning of the scripts.
