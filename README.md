@@ -8,16 +8,15 @@ Code for the paper: `Exploring Loss Function and Rank Fusion for Enhanced Person
 Clone the repo:
   ```bash
   git clone https://github.com/LIRENDA621/MMSports2023_-Player_Reidentificatio_Challenge.git
-  cd TalkSHOW
+  cd MMSports2023_-Player_Reidentificatio_Challenge
   ```  
 Create conda environment:
 ```bash
-conda create --name talkshow python=3.7
-conda activate talkshow
+   pip install -r requirements.txt
 ```
-Please install pytorch (v1.10.1).
 
-    pip install -r requirements.txt
+
+ 
 
 ## Approach
 
