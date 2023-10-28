@@ -9,7 +9,7 @@ Code for the paper: `Exploring Loss Function and Rank Fusion for Enhanced Person
 ## Setup environment
 Clone the repo:
   ```bash
-  git clone https://github.com/LIRENDA621/MMSports2023_-Player_Reidentificatio_Challenge.git
+  git clone https://github.com/LIRENDA621/MMSports2023_-Player_Reidentification_Challenge.git
   cd MMSports2023_-Player_Reidentificatio_Challenge
   ```  
 Create conda environment:
